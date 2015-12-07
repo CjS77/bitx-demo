@@ -1,0 +1,28 @@
+{
+  "name": "bitx-demo",
+  "version": "1.0.0",
+  "description": "Live BitX node.js demo",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CjS77/bitx-demo.git"
+  },
+  "keywords": [
+    "API",
+    "live",
+    "demo"
+  ],
+  "author": "Cayle Sharrock <cayle@nimbustech.biz> (http://nimbustech.biz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CjS77/bitx-demo/issues"
+  },
+  "homepage": "https://github.com/CjS77/bitx-demo#readme",
+  "dependencies": {
+    "bitx": "^1.5.0"
+  }
+}
