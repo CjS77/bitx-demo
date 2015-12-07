@@ -4,6 +4,8 @@ Live BitX node.js demo
 
 ## Instructions
 
+You need your API key and secret stored in the `BITX_KEY` and `BITX_SECRET` environment variables respectively.
+
 Assuming you have node / npm installed:
 
     npm install
